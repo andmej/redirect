@@ -1,2 +1,2 @@
-# redirect
-http://github.com/mejito
+For the record, I changed my GitHub username. My new username is @mejito: http://github.com/mejito
+
